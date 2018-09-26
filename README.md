@@ -1,2 +1,8 @@
-# Simple-Calculator
-A basic calculator for both android and ios using flutter
+# calculator
+
+A simple calculator
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
